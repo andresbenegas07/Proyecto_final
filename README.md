@@ -1,8 +1,9 @@
 ### ERRORES. EXPLICACION DE USUARIOS
 
 #USUARIOS:
-Se han creado dos usuarios. Uno de ellos es STAFF (user: profe_coder ; contraseña: coder123).
-Otro de esos usuarios No es staff, es un user comun. (user: alumno; contraseña: coder123).
+1)Se han creado dos usuarios. Uno de ellos es STAFF (user: profe_coder ; contraseña: coder123).
+
+2) Otro de esos usuarios No es staff, es un user comun. El cual solamente puede ver todo, menos editar y/o eliminar algo... (user: alumno; contraseña: coder123).
 
 #ERRORES:
 
